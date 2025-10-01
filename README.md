@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:007396&height=200&section=header&text=good%20to%20see%20you&fontSize=60&fontColor=ffffff&fontAlignY=35)
-# YourName
+# JungHwan
 Backend Developer | Java & Kotlin | Clean Architecture & Scalable Services
 
 ---
 
-## 🧑‍💻 JungHwan
+## 🧑‍💻 About Me
 - ☁️ Backend Developer focusing on **Spring Boot** & **Kotlin/Java**
 - 📦 Domain-driven & test-first, 관심사: **API 설계 / 성능 최적화 / 안정적 배포**
 
@@ -28,8 +28,8 @@ Backend Developer | Java & Kotlin | Clean Architecture & Scalable Services
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkim733147@naver.com&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhkim733147@naver.com&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkim0602&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhkim0602&layout=compact)
 
 ---
 
