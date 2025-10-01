@@ -4,10 +4,9 @@ Backend Developer | Java & Kotlin | Clean Architecture & Scalable Services
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 JungHwan
 - ☁️ Backend Developer focusing on **Spring Boot** & **Kotlin/Java**
 - 📦 Domain-driven & test-first, 관심사: **API 설계 / 성능 최적화 / 안정적 배포**
-- ✨ “가독성과 확장성이 좋은 코드를 지향합니다.”
 
 ---
 
