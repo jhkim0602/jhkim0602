@@ -1,12 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9142F7&background=6EFFD000&center=true&repeat=false&width=450&height=60&lines=%2F*+Hello+GPT!+please+analyze+my+personality+so+far+and+introduce+me!+*%2F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=9142F7&background=6EFFD000&center=true&multiline=true&repeat=false&width=450&height=60&lines=%2F*+Hello+World!+*%2F)](https://git.io/typing-svg)
+
 # JungHwan
-Backend Developer | Java & Kotlin | Clean Architecture & Scalable Services
+Backend Developer | DevOps
 
 ---
-
 ## 🧑‍💻 About Me
 - ☁️ Backend Developer focusing on **Spring Boot** & **Kotlin/Java**
-- 📦 Domain-driven & test-first, 관심사: **API 설계 / 성능 최적화 / 안정적 배포**
+- 📦 열심히 공부 중인 대학생 입니다.!
 
 ---
 
@@ -33,22 +33,12 @@ Backend Developer | Java & Kotlin | Clean Architecture & Scalable Services
 
 ---
 
-## 📚 Currently Learning
-- Spring Security + JWT 인증/인가
-- Docker · GitHub Actions 기반 CI/CD
-- 테스트 전략 (단위/통합/계약), Clean Architecture 적용
-
----
-
 ## 🔗 Contact & More
 | 구분 | 링크 |
 |---|---|
-| Portfolio | https://YOUR_PORTFOLIO_LINK |
-| Blog | https://YOUR_BLOG_LINK |
-| LinkedIn | https://www.linkedin.com/in/YOUR_LINKEDIN |
-| Email | mailto:YOUR_EMAIL |
+| Portfolio | https://victorious-avenue-f7c.notion.site/Hi-I-m-James-220e94254e338068bcd2e952e19129ca?source=copy_link |
+| Blog | https://blog-kim.vercel.app/ |
+| Email | mailto:jungkim030602@gmail.com |
 
 ---
 
-<!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:007396&height=140&section=footer)
