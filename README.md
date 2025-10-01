@@ -28,9 +28,8 @@ Backend Developer | Java & Kotlin | Clean Architecture & Scalable Services
 ---
 
 ## 📊 GitHub Stats
-<!-- username에 본인 GitHub 아이디 넣기 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhkim733147@naver.com&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhkim733147@naver.com&layout=compact)
 
 ---
 
