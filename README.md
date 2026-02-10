@@ -36,8 +36,8 @@ Backend Developer | DevOps
 ## 🔗 Contact & More
 | 구분 | 링크 |
 |---|---|
-| Portfolio | https://victorious-avenue-f7c.notion.site/Hi-I-m-James-220e94254e338068bcd2e952e19129ca?source=copy_link |
-| Blog | https://blog-kim.vercel.app/ |
+| Portfolio | 준비중!|
+| Blog | [https://blog-kim.vercel.app/](https://junghwan.blog/) |
 | Email | mailto:jungkim030602@gmail.com |
 
 ---
