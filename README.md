@@ -33,6 +33,13 @@ Backend Developer | DevOps
 
 ---
 
+## 👾 Contribution Game
+![GitHub Contribution Game](./game.gif)
+
+> `gh-space-shooter`로 생성한 GitHub contribution space shooter 입니다. GitHub Actions가 매일 자동으로 갱신합니다.
+
+---
+
 ## 🔗 Contact & More
 | 구분 | 링크 |
 |---|---|
@@ -41,4 +48,3 @@ Backend Developer | DevOps
 | Email | mailto:jungkim030602@gmail.com |
 
 ---
-
