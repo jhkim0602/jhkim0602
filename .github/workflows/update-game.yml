@@ -1,12 +1,6 @@
 name: Update Contribution Game
 
 on:
-  push:
-    branches:
-      - main
-    paths-ignore:
-      - game.gif
-      - profile-3d-contrib/**
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
