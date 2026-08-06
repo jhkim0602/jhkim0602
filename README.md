@@ -9,7 +9,7 @@
 - 🎓 OO대학교 소프트웨어학과
 - 👥 120명 규모 교내 IT 커뮤니티 개설 및 운영
 - ☁️ AWS 기반 AI·클라우드 아키텍처 학습 중
-- 
+  
 <a href="https://github.com/jhkim0602">
   <img src="https://img.shields.io/badge/GitHub-jhkim0602-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
