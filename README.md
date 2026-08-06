@@ -103,26 +103,3 @@ class JungHwan implements Developer {
 </details>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jhkim0602&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhkim0602&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=jhkim0602&theme=radical&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-</div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=FFB7C5)
-
-</div>
