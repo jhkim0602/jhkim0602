@@ -10,13 +10,9 @@
 
 ### Frontend
 
-WebSquare
-
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css&perline=8" alt="Next.js, React, TypeScript, Tailwind CSS, HTML, CSS" />
 
 ### Backend & Database
-
-전자정부프레임워크
 
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,fastapi,python,postgres,prisma&perline=8" alt="Java, Spring, Node.js, NestJS, FastAPI, Python, PostgreSQL, Prisma" />
 
